@@ -1,0 +1,15 @@
+*.npz
+*.pkl
+*.csv
+*.json
+*.log
+__pycache__/
+.ipynb_checkpoints/
+data/
+datasets/
+outputs/
+checkpoints/
+*.h5
+*.hdf5
+wandb/
+nohup.out

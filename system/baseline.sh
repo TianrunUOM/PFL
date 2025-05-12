@@ -1,0 +1,1 @@
+python main.py -data Fed_ISIC -m EfficientNet -algo FedAvg -gr 50 -did 0 -uw Tr -nc 6 -lbs 32 -ls 5 -lrp 0.001 -mo 0.9 -wd 1e-6 -opt sgd -ufl True

@@ -13,3 +13,17 @@ checkpoints/
 *.hdf5
 wandb/
 nohup.out
+*.pt
+*.pth
+*.ckpt
+dataset/
+results/
+*.bin
+*.model
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
